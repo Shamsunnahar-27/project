@@ -1,0 +1,90 @@
+/* Base CSS */
+img {
+    max-width: 100%;}
+.alignleft {
+    float: left;
+    margin-right: 15px;
+}
+.alignright {
+    float: right;
+    margin-left: 15px;
+}
+.aligncenter {
+    display: block;
+    margin: 0 auto 15px;
+}
+
+.
+
+.header_area{}
+.header_area{background:#2b374b;color:#ccc;}
+.header_area ul{list-style:none;padding:0px;margin:0px}
+.header_area ul li {display:inline-block;padding:7px 10px }
+.header_area ul li a{color:#fff}
+.box_area{margin:5px;float:right}
+
+.mainmenu{background:#f6f9f9;color:#2b374b;}
+.logo{padding:7px;margin:5px}
+.manu{}
+.manu ul{text-align: right;list-style:none;padding:0px;margin:0px}
+.manu ul li{display:inline-block;padding:15px 30px;float:left }
+
+.manu ul li a{ font-size:20px;color:#70788a;font-family:Times New Roman,serif; }
+.manu ul li a:hover{text-decoration:none;border-bottom:2px solid #2b374b;padding:18px;color: #2b374b}
+.menu ul li a:hover.active{border-bottom:2px solid #2b374b;}
+.slider_area{}
+.carousel-caption{position: absolute;
+				right: 15%;
+				bottom: 30px;
+				left: 15%;
+				z-index: 10;
+				padding-top: 20px;
+				padding-bottom: 20px;
+				color: #fff;
+			    text-align: center;}
+.carousel-caption h1{font-size:80px;}
+.carousel-caption hr{width:50%;padding:1px;margin:10px;margin-left:25%}
+.simple_area{background: #f6f9f9;padding:30px;padding-bottom:60px;} 
+.simple_area h4{font-family:Myriad Pro;color:#2d3950;} 
+.simple_area p{color:#a7a8a8;} 
+.services_area{padding:30px;padding-bottom:30px;}
+.services_area h5{color:#3b465c;padding:20px}
+.services_area h6{color:#999999;}
+.portfolio{background: #f6f9f9;padding:50px;color:636c7d}
+.portfolio h6{color:#999999;}
+.contact{background:url(img/bg.jpg)no-repeat center fixed;
+ -moz-background-size:cover;
+      -o-background-size:cover;
+      -webkit-background-size:cover;
+      background-size:cover;
+	  color:#ffffff;padding:30px
+	  
+	  }
+.contact h6{color:#999999}
+
+.form-group{height:50%;width:50%;padding:0px;margin-left:250px;}	  
+.footer{padding:10px;margin:5px;font-family:Myriad Pro;color:#2d3950;}
+.footer ul{list-style:none;padding:0px;margin:0px}
+.footer ul li{display:inline-block;padding:3px 10px}
+.footer ul li a{background:#2cabf6;color:#ffffff;border-radius:50%;padding:7px}
+.footer  ul li a:hover{text-decoration:none;border:2px solid #2d3950;opacity:;padding:12px }
+.social_icon{float:right;}
+
+
+social_icon ul{float: none;text-align:none;}
+social_icon ul li {display: inline-block;
+					float: none;
+					position: relative;
+					padding:2px}
+social_icon ul li a{background:black;
+                  color:#ffffff;
+				  border: 2px solid #222222;
+				  padding:8px 8px 8px;
+				  border-radius:60%}
+social_icon ul li a:hover{text-decoration:none;
+						background:#00aced;
+						border:none;
+						color:#ffffff;
+						padding:8px;
+						border: 2px solid #00aced;
+						}	
